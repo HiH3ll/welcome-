@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
 <body>
 
-<h1 style="font-family:futura;"Hello there!!!</h1>
+<h1>"Hello there!!!</h1>
 <p>My name is Hellen, and welcome to my page. I majored in International Business with a minor in Design at UCSD.  After graduation, I would like to pursue a career that incorporates design thinking and hands on prototyping and development. I plan to go into industry to specialize in UX/UI Design but I would like to combine my knowledge I have learned as an international business major. I am currently available for opportunities in this field.</p> 
 
 <p>You can reach me at hellenluu25@gmail.com.</p>

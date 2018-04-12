@@ -5,6 +5,8 @@
 <body>
 
 <h1>"Hello there!!!</h1>
+
+<img src="IMG_9744.CR2">
 <p>My name is Hellen, and welcome to my page. I am a current senior majoring in International Business with a minor in Design at UCSD. I have spent the majority of my time involved in differen business internship but I have always had a passion for design and the arts. I stumbled across UX/UI design about a year ago and have been doing it ever since. 
   
 After graduation, I would like to pursue a career that incorporates design thinking and hands on prototyping and development. My plan, if everything goes accordingly is to go into industry to specialize in UX/UI Design but I would like to combine my knowledge I have learned as an international business major. 

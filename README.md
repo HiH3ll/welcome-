@@ -9,12 +9,12 @@
 
 <p>You can reach me at hellenluu25@gmail.com.</p>
 <br>
-<p style="font size:bold"FUN FACTS ABOUT ME</p>
+<p><b>"FUN FACTS ABOUT ME"</b></p>
 <ol>
   <li>I have visited Hong Kong, Macao, and Taiwan as my international destinations. I have also been to San Francisco CA, Seattle WA New Orleans, LA & Las Vegas NV.</li>
   <li>I am trilingual. I speak English, Chew Chow (Teochew Dialect), and Mandarin.</li>
   <li>I enjoy outdoor activities and my favorite activities are hiking, swimming and eating.</li>
-  <li>My favorite color is blue</li>
+  <li>My favorite color is Blue</li>
   <li>Favorite Band: Maroon 5</li>
   <li>Favorite ice cream is Neopolitian</li>
   </ol>

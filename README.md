@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/HiH3ll/welcome-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1 style="font-family:futura;"Hello there!!!</h1>
+<p My name is Hellen, and welcome to my page. I majored in International Business with a minor in Design at UCSD.  After graduation, I would like to pursue a career that incorporates design thinking and hands on prototyping and development. I plan to go into industry to specialize in UX/UI Design but I would like to combine my knowledge I have learned as an international business major. I am currently available for opportunities in this field.</p> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>You can reach me at hellenluu25@gmail.com.</p>
+<br>
+<p>FUN FACTS ABOUT ME</p>
+<br>
+<ol>
+  <li>I have visited Hong Kong, Macao, and Taiwan as my international destinations. I have also been to San Francisco CA, Seattle WA New Orleans, LA & Las Vegas NV.</li>
+  <li>I am trilingual. I speak English, Chew Chow (Teochew Dialect), and Mandarin.</li>
+  <li>I enjoy outdoor activities and my favorite activities are hiking, swimming and eating.</li>
+  <li>My favorite color is blue</li>
+  <li>Favorite Band: Maroon 5</li>
+  <li>Favorite ice cream is Neopolitian</li>
+  </ol>
+ 
+</body>
+</html>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HiH3ll/welcome-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
